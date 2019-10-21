@@ -1,0 +1,8 @@
+# This the our soup recipe
+
+1. Boil the Water
+2. Chop the Onions
+3. Add Seasonings
+4. Add the Veggies
+5. Add Crackers
+6. Eat and Enjoy
